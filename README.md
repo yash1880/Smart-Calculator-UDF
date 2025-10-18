@@ -7,7 +7,7 @@ It performs arithmetic operations, finds squares & cubes, calculates factorials,
 ## 🚀 Features
 
 - ➕ **Arithmetic Calculator** – Add, subtract, multiply, divide, and modulus  
-- 🟦 **Square & Cube Finder** – Get both results instantly  
+- 🟦 **Square & Cube Finder** – Get both results instantly 
 - 🧩 **Factorial Calculator** – Uses recursion for accurate factorials  
 - 🔢 **Even / Odd Checker** – Instantly identifies even or odd numbers  
 - 🎨 **Beautiful UI** – Soft colors, shadows, and smooth fade animations  
