@@ -15,14 +15,6 @@ It performs arithmetic operations, finds squares & cubes, calculates factorials,
 
 ---
 
-## 🖥️ Live Demo
-
-🔗 [**View Smart Calculator**](https://yourusername.github.io/Smart-Calculator)
-
-*(Replace `yourusername` with your GitHub username before publishing)*
-
----
-
 ## 🧠 How It Works
 
 1. Enter numbers into the input fields.  
